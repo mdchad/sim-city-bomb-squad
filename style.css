@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+}
+
+body {
+  background: url('img/simcity.jpg');
+  background-size: cover;
+  color: white
+}
+
+#timer {
+  background: black;
+  height: 70px;
+  color: red;
+  text-align: center;
+  font-size: x-large;
+  padding-top: 1em;
+}
+
+.container {
+  background-color: black;
+  margin: 100px auto;
+  width: 16%;
+  height: 100%;
+  height: 390px;
+  position: relative;
+}
+
+.wire {
+  text-align: center;
+}
+
+button {
+  width: 150px;
+  margin: 2px 25px;
+}
